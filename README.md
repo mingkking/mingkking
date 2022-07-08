@@ -28,9 +28,27 @@ Phone +82 10 2716 5176 <br>
 (디지털컨버전스) 자바(JAVA) 안드로이드 웹&앱 개발자(BL) B <br>
 JAVA, Oracle DB, JSP, Spring, html, CSS, Javascript 등 / 이젠컴퓨터아카데미
 
+### Team Project
+
+1. 음식 예약 시스템 (RRS)
+AWS EC2 주소 http://52.79.44.41:8080
+참고 사이트 캐치테이블
+개발자: 류성찬, 박재형, 박재호, 윤성렬, 정민기
+
+### 개발환경
+
+운영체제: Windows 10
+IDE: Eclipse 2021-12
+JDK: 11.0.13v
+Server: Tomcat9.0v
+DataBase: Oracle v10c
+Spring: 5.3.3
+Bootstrap5
+Cowork Tool: GitHub
+
 ### Personal Project
 
-### Team Project
+
 
 <!--
 **mingkking/mingkking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
