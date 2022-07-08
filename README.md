@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingkking%2Fmingkking&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 정민기
-## 웹 백엔드 개발
+## Backend Developer
 1990.01.11
 
 안녕하세요, 이곳은 저를 소개하고 개발한 프로그램을 정리하는 용도로 만들었으며 기타 문의사항이 있는 경우 언제든지 연락주세요,
