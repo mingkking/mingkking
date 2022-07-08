@@ -46,7 +46,7 @@ Cowork Tool: GitHub
 1. 음식 예약 시스템 (RestaurantReservation) <br>
 AWS EC2 주소 http://52.79.44.41:8080 <br>
 참고 사이트 캐치테이블 <br>
-개발자: 류성찬, 박재형, 박재호, 윤성렬, 정민기
+개발자: 류성찬, 박재형, 박재호, 윤성렬, 정민기 <br>
 ★ mybatis, mapper, service, serviceImpl, vo, controller
 
 ### Personal Project
@@ -54,13 +54,13 @@ AWS EC2 주소 http://52.79.44.41:8080 <br>
 1. 수강신청 어플 - 시험 (spring_EnrolmentApp) <br>
 AWS EC2 주소 X <br>
 참고 사이트 X <br>
-개발자: 정민기
+개발자: 정민기 <br>
 ★ mybatis, mapper, vo, controller
 
 2. 렌트카 예약 - 시험 (rentCarMain) <br>
 AWS EC2 주소 X <br>
 참고 사이트 X <br>
-개발자: 정민기
+개발자: 정민기 <br>
 ★ vo, dao, jsp
 
 <!--
