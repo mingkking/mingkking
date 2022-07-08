@@ -47,6 +47,7 @@ Cowork Tool: GitHub
 AWS EC2 주소 http://52.79.44.41:8080 <br>
 참고 사이트 캐치테이블 <br>
 개발자: 류성찬, 박재형, 박재호, 윤성렬, 정민기
+★ mybatis, mapper, service, serviceImpl, vo, controller
 
 ### Personal Project
 
@@ -54,11 +55,13 @@ AWS EC2 주소 http://52.79.44.41:8080 <br>
 AWS EC2 주소 X <br>
 참고 사이트 X <br>
 개발자: 정민기
+★ mybatis, mapper, vo, controller
 
 2. 렌트카 예약 - 시험 (rentCarMain) <br>
 AWS EC2 주소 X <br>
 참고 사이트 X <br>
 개발자: 정민기
+★ vo, dao, jsp
 
 <!--
 **mingkking/mingkking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
