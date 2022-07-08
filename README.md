@@ -30,20 +30,20 @@ JAVA, Oracle DB, JSP, Spring, html, CSS, Javascript 등 / 이젠컴퓨터아카�
 
 ### Team Project
 
-1. 음식 예약 시스템 (RRS)
-AWS EC2 주소 http://52.79.44.41:8080
-참고 사이트 캐치테이블
+1. 음식 예약 시스템 (RRS) <br>
+AWS EC2 주소 http://52.79.44.41:8080 <br>
+참고 사이트 캐치테이블 <br>
 개발자: 류성찬, 박재형, 박재호, 윤성렬, 정민기
 
 ### 개발환경
 
-운영체제: Windows 10
-IDE: Eclipse 2021-12
-JDK: 11.0.13v
-Server: Tomcat9.0v
-DataBase: Oracle v10c
-Spring: 5.3.3
-Bootstrap5
+운영체제: Windows 10 <br>
+IDE: Eclipse 2021-12 <br>
+JDK: 11.0.13v <br>
+Server: Tomcat9.0v <br>
+DataBase: Oracle v10c <br>
+Spring: 5.3.3 <br>
+Bootstrap5 <br>
 Cowork Tool: GitHub
 
 ### Personal Project
