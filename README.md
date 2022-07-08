@@ -9,9 +9,9 @@
 
 ### About Me
 
-Address Goyang-si Ilsan
-E-mail jumki@naver.com
-Phone +82 10 2716 5176
+Address Goyang-si Ilsan <br>
+E-mail jumki@naver.com <br>
+Phone +82 10 2716 5176 <br>
 
 ### Skills
 
