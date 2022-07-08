@@ -23,6 +23,11 @@ Phone +82 10 2716 5176 <br>
 <img src="https://img.shields.io/badge/JSP-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+### Education
+2021.12 ~ 2022.065 
+(디지털컨버전스) 자바(JAVA) 안드로이드 웹&앱 개발자(BL) B
+JAVA, Oracle DB, JSP, Spring, html, CSS, Javascript 등 / 이젠컴퓨터아카데미
+
 <!--
 **mingkking/mingkking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
