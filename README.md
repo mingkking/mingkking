@@ -13,8 +13,6 @@ Address Goyang-si Ilsan
 E-mail jumki@naver.com
 Phone +82 10 2716 5176
 
-
-<br>
 ### Skills
 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
