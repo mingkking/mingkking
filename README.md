@@ -44,7 +44,7 @@ Cowork Tool: GitHub
 ### Team Project
 
 1. 음식 예약 시스템 (RestaurantReservation) <br>
-AWS EC2 주소 http://52.79.44.41:8080 <br>
+AWS EC2 주소 http://43.200.132.87:8080 <br>
 참고 사이트 캐치테이블 <br>
 개발자: 류성찬, 박재형, 박재호, 윤성렬, 정민기 <br>
 ★ mybatis, mapper, service, serviceImpl, vo, controller
