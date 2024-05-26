@@ -33,8 +33,8 @@ Phone +82 10 2716 5176 <br>
 (디지털컨버전스) 자바(JAVA) 안드로이드 웹&앱 개발자(BL) B <br>
 JAVA, Oracle DB, JSP, Spring, html, CSS, Javascript 등 / 이젠컴퓨터아카데미
 
-2024.02.27 ~ 2024.08.22 <br>
-(ICT인재개발원) 자바(JAVA) 안드로이드 웹&앱 개발자(BL) B <br>
+2024.02.27 ~ 2024.08.20 <br>
+데이터처리 기반 자바 풀스택 개발자 과정 <br>
 JAVA, MySQL DB, JSP, Spring, html, CSS, Javascript 등 / ICT인재개발원
 
 ### 개발환경
@@ -52,7 +52,7 @@ Cowork Tool: GitHub
 ### Team Project
 
 1. 음식 예약 시스템 (RestaurantReservation) <br>
-AWS EC2 주소 http://43.200.132.87:8080 <br>
+AWS EC2 주소 X <br>
 참고 사이트 캐치테이블 <br>
 개발자: 류성찬, 박재형, 박재호, 윤성렬, 정민기 <br>
 ★ mybatis, mapper, service, serviceImpl, vo, controller
