@@ -17,7 +17,7 @@ Phone +82 10 2716 5176 <br>
 ### Skills
 
 <img src="https://img.shields.io/badge/Java-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-0066AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MyBatis-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
