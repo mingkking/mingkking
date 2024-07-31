@@ -37,43 +37,6 @@ JAVA, Oracle DB, JSP, Spring, html, CSS, Javascript 등 / 이젠컴퓨터아카�
 데이터처리 기반 자바 풀스택 개발자 과정 <br>
 JAVA, MySQL DB, JSP, Spring, html, CSS, Javascript 등 / ICT인재개발원
 
-### 개발환경
-
-운영체제: Windows 10 <br>
-IDE: Eclipse 2021-12 <br>
-JDK: 11.0.13v <br>
-Server: Tomcat9.0v <br>
-DataBase: Oracle v10c <br>
-Spring: 5.3.3 <br>
-JSP <br>
-Bootstrap5 <br>
-Cowork Tool: GitHub
-
-### Team Project
-
-1. 음식 예약 시스템 (RestaurantReservation) <br>
-AWS EC2 주소 X <br>
-참고 사이트 캐치테이블 <br>
-개발자: 류성찬, 박재형, 박재호, 윤성렬, 정민기 <br>
-★ mybatis, mapper, service, serviceImpl, vo, controller
-
-2. 축구장 대관 시스템(middleProject) <br>
-
-
-### Personal Project
-
-1. 수강신청 어플 - 시험 (spring_EnrolmentApp) <br>
-AWS EC2 주소 X <br>
-참고 사이트 X <br>
-개발자: 정민기 <br>
-★ mybatis, mapper, vo, controller
-
-2. 렌트카 예약 - 시험 (rentCarMain) <br>
-AWS EC2 주소 X <br>
-참고 사이트 X <br>
-개발자: 정민기 <br>
-★ vo, dao, jsp
-
 <!--
 **mingkking/mingkking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
