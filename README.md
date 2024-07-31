@@ -14,20 +14,6 @@ Address Goyang-si Ilsan <br>
 E-mail jumki@naver.com <br>
 Phone +82 10 2716 5176 <br>
 
-### Skills
-
-<img src="https://img.shields.io/badge/Java-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle-006600?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MyBatis-006600?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-006600?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JQuery-006600?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AJAX-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JSP-006600?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-3700AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
 ### Education
 2021.12.31 ~ 2022.06.10 <br>
 (디지털컨버전스) 자바(JAVA) 안드로이드 웹&앱 개발자(BL) B <br>
